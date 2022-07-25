@@ -7,11 +7,12 @@ I lead Atoptima's open-source plateform. Our main open-source project is [Coluna
 
 
 I have a PhD in operations research from Université de Bordeaux. I mainly worked on two-echelon vehicle routing problems.
-I was supervised by Ruslan Sadykov and Rémy Dupas.
+I was supervised by [Ruslan Sadykov](https://www.researchgate.net/profile/Ruslan-Sadykov) and Rémy Dupas.
 I defended my [thesis](https://tel.archives-ouvertes.fr/tel-03097659) in November 2020.
 
 
-
+- 💬 Ask me about Atoptima, Coluna
+- 📫 How to reach me: guillaume.marques@atoptima.com
 
 
 <!--
