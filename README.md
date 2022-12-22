@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm co-founder and CPO of [Atoptima](https://atoptima.com/). We produce powerful optimization softwares for complex operations planning (e.g. load balancing, vehicle routing, packing...). 
-Our software library allows us to produce solvers tailored to our clients' constraints. Our solvers are hosted in the cloud, very easy to integrate (REST API), and provide decision support features that significantly improve the operational performance of our clients.
+Our software library allows us to produce tailored solvers suited to our customer constraints. Our solvers are hosted in the cloud, very easy to integrate (REST API), and provide decision support features that significantly improve the operational performance of our clients.
 
 I lead Atoptima's open-source plateform. Our main open-source project is [Coluna.jl](https://github.com/atoptima/Coluna.jl), a branch-cut-and-price framework in Julia that provides the basic algorithmic blocks for building exact state-of-the-art optimization methods.
 
