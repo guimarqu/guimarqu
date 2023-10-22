@@ -7,7 +7,7 @@ I have a PhD in operations research from Université de Bordeaux. I mainly worke
 I was supervised by [Ruslan Sadykov](https://www.researchgate.net/profile/Ruslan-Sadykov) and Rémy Dupas.
 I defended my [thesis](https://tel.archives-ouvertes.fr/tel-03097659) in November 2020.
 
-- 📫 How to reach me: guillaume.marques@protonmail.com
+- 📫 How to reach me: guimarqu@pm.me
 
 
 <!--
