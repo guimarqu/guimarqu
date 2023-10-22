@@ -1,18 +1,13 @@
 ### Hi there 👋
 
-I'm tech co-founder of [Atoptima](https://atoptima.com/). We produce powerful optimization softwares for complex operations planning (e.g. load balancing, vehicle routing, packing...). 
-Our software library allows us to produce tailored solvers suited to our customer constraints. Our solvers are hosted in the cloud, very easy to integrate (REST API), and provide decision support features that significantly improve the operational performance of our clients.
-
-I lead Atoptima's open-source plateform. Our main open-source project is [Coluna.jl](https://github.com/atoptima/Coluna.jl), a branch-cut-and-price framework in Julia that provides the basic algorithmic blocks for building exact state-of-the-art optimization methods.
-
+I co-founded [Atoptima](https://atoptima.com/), a company that produces powerful optimization software for complex operations planning. 
+I led Atoptima's open-source platform and was the lead developer of [Coluna.jl](https://github.com/atoptima/Coluna.jl), a branch-cut-and-price framework in Julia that provides the basic algorithmic blocks for building exact state-of-the-art optimization methods.
 
 I have a PhD in operations research from Université de Bordeaux. I mainly worked on two-echelon vehicle routing problems.
 I was supervised by [Ruslan Sadykov](https://www.researchgate.net/profile/Ruslan-Sadykov) and Rémy Dupas.
 I defended my [thesis](https://tel.archives-ouvertes.fr/tel-03097659) in November 2020.
 
-
-- 💬 Ask me about Atoptima, Coluna
-- 📫 How to reach me: guillaume.marques@atoptima.com
+- 📫 How to reach me: guillaume.marques@protonmail.com
 
 
 <!--
