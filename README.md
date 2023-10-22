@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I co-founded [Atoptima](https://atoptima.com/), a company that produces powerful optimization software for complex operations planning. 
-I led Atoptima's open-source platform and was the lead developer of [Coluna.jl](https://github.com/atoptima/Coluna.jl), a branch-cut-and-price framework in Julia that provides the basic algorithmic blocks for building exact state-of-the-art optimization methods.
+I lead Atoptima's open-source platform and I'm the lead developer of [Coluna.jl](https://github.com/atoptima/Coluna.jl), a branch-cut-and-price framework in Julia that provides the basic algorithmic blocks for building exact state-of-the-art optimization methods.
 
 I have a PhD in operations research from Université de Bordeaux. I mainly worked on two-echelon vehicle routing problems.
 I was supervised by [Ruslan Sadykov](https://www.researchgate.net/profile/Ruslan-Sadykov) and Rémy Dupas.
