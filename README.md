@@ -6,7 +6,7 @@ Do you look for an operations research expert? Contact me by [📬 mail](mailto:
 
 🎯 Operations research PhD with 8 years of experience skilled at software engineering and mathematical optimization methods, I make your prescriptive analytic project a sucess using operations research.
 
-👯 Co-founder and technical director of a deep tech startup during 3 years, I collaborate with you on all the technical aspects of your prescriptive analysis project (front, back, data analysis and management, problem modeling, optimization...).
+👯 Co-founder and technical director of a deeptech startup during 3 years, I collaborate with you on all the technical aspects of your prescriptive analysis project (front, back, data analysis and management, problem modeling, optimization...).
 
 💪 My main skills are mathematical modeling and deployment of mathematical optimization algorithms. I'm co-creator and was during 5 years the main contributor of [Coluna.jl](https://github.com/atoptima/Coluna.jl), an open-source framework to optimize large-scale problems.
 
