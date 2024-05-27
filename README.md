@@ -1,10 +1,16 @@
 ### Hi there 👋
 
-I co-founded [Atoptima](https://atoptima.com/), a company that produces powerful optimization software for complex operations planning, and worked there as tech lead from Sep 2020 to Nov 2023.
-I led Atoptima's open-source platform and I was the lead developer of [Coluna.jl](https://github.com/atoptima/Coluna.jl), a branch-cut-and-price framework in Julia.
+Do you look for an operations research expert? Contact me by [📬 mail](mailto:guimarqu.scuff585@passmail.com) or via [💬 Linkedin](www.linkedin.com/in/guimarqu).
 
-I have a PhD in operations research from Université de Bordeaux. I mainly worked on two-echelon vehicle routing problems with [Ruslan Sadykov](https://www.researchgate.net/profile/Ruslan-Sadykov) and Rémy Dupas.
-I defended my [thesis](https://tel.archives-ouvertes.fr/tel-03097659) in November 2020.
+<br /> 
+
+🎯 Operations research PhD with 8 years of experience skilled at software engineering and mathematical optimization methods, I make your prescriptive analytic project a sucess using operations research.
+
+👯 Co-founder and technical director of a deep tech startup during 3 years, I collaborate with you on all the technical aspects of your prescriptive analysis project (front, back, data analysis and management, problem modeling, optimization...).
+
+💪 My main skills are mathematical modeling and deployment of mathematical optimization algorithms. I'm co-creator and was during 5 years the main contributor of [Coluna.jl](https://github.com/atoptima/Coluna.jl), an open-source framework to optimize large-scale problems.
+
+🎓 During my PhD, I mainly worked on two-echelon vehicle routing problems with [Ruslan Sadykov](https://www.researchgate.net/profile/Ruslan-Sadykov) and Rémy Dupas. I defended my [thesis](https://tel.archives-ouvertes.fr/tel-03097659) in November 2020.
 
 
 
