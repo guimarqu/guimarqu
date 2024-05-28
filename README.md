@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Do you look for an operations research expert? Contact me by [📬 mail](mailto:guimarqu.scuff585@passmail.com) or via [💬 Linkedin](www.linkedin.com/in/guimarqu).
+Looking for an operations research expert? Contact me by [📬 mail](mailto:guimarqu.scuff585@passmail.com) or via [💬 Linkedin](www.linkedin.com/in/guimarqu).
 
 <br /> 
 
