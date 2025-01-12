@@ -4,13 +4,9 @@ Looking for an operations research expert? Contact me by [📬 mail](mailto:guim
 
 <br /> 
 
-🎯 Operations research PhD with 8 years of experience skilled at software engineering and mathematical optimization methods, I make your prescriptive analytic project a sucess using operations research.
+Operations Research PhD with 9 years of experience skilled in software engineering and mathematical optimization, I make your prescriptive analytic project successful from requirement gathering to deployment.
 
-👯 Co-founder and technical director of a deeptech startup during 3 years, I collaborate with you on all the technical aspects of your prescriptive analysis project (front, back, data analysis and management, problem modeling, optimization...).
-
-💪 My main skills are mathematical modeling and deployment of mathematical optimization algorithms. I'm co-creator and was during 5 years the main contributor of [Coluna.jl](https://github.com/atoptima/Coluna.jl), an open-source framework to optimize large-scale problems.
-
-🎓 During my PhD, I mainly worked on two-echelon vehicle routing problems with [Ruslan Sadykov](https://www.researchgate.net/profile/Ruslan-Sadykov) and Rémy Dupas. I defended my [thesis](https://tel.archives-ouvertes.fr/tel-03097659) in November 2020.
+During my PhD, I mainly worked on two-echelon vehicle routing problems with [Ruslan Sadykov](https://www.researchgate.net/profile/Ruslan-Sadykov) and Rémy Dupas. I defended my [thesis](https://tel.archives-ouvertes.fr/tel-03097659) in November 2020.
 
 
 
