@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-Looking for an operations research expert? Contact me by [📬 mail](mailto:guimarqu.scuff585@passmail.com) or via [💬 Linkedin](https://www.linkedin.com/in/guimarqu).
-
-<br /> 
-
 Operations Research PhD with 9 years of experience skilled in software engineering and mathematical optimization, I make your prescriptive analytic project successful from requirement gathering to deployment.
 
 During my PhD, I mainly worked on two-echelon vehicle routing problems with [Ruslan Sadykov](https://www.researchgate.net/profile/Ruslan-Sadykov) and Rémy Dupas. I defended my [thesis](https://tel.archives-ouvertes.fr/tel-03097659) in November 2020.
