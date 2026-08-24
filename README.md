@@ -16,6 +16,7 @@ I build, maintain and deploy optimization software to tackle complex decision pr
 ## Nablarise
 
 I consult under [Nablarise](https://nablarise.com), helping companies industrialize optimization engines. 
+
 Recent work: optimization of the French gas distribution network for the main operator.
 
 - ✉️ Contact: [guillaume.marques@nablarise.com](mailto:guillaume.marques@nablarise.com)
